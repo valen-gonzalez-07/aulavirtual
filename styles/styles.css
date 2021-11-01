@@ -429,6 +429,10 @@ a {
         width: 300px;
     }
 
+    .inicio {
+        width: 300px;
+    }
+
     .nav-link i {
         display: none;
     }
@@ -477,6 +481,10 @@ a {
 }
 
 @media (min-width: 321px) and (max-width: 768px){
+
+    #inicio {
+        width: 300px;
+    }
 
     .nav-link i {
         display: none;
