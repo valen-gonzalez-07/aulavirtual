@@ -430,6 +430,7 @@ a {
     }
 
     #bienvenida {
+        display: inline-block;
         width: 300px;
     }
 
@@ -483,6 +484,7 @@ a {
 @media (min-width: 321px) and (max-width: 768px){
 
     #bienvenida {
+        display: inline-block;
         width: 300px;
     }
 
