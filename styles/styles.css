@@ -482,8 +482,9 @@ a {
 
 @media (min-width: 321px) and (max-width: 768px){
 
-    #inicio {
+    .inicio {
         width: 300px;
+        padding: 0 20px;
     }
 
     .nav-link i {
