@@ -429,7 +429,7 @@ a {
         width: 300px;
     }
 
-    .inicio {
+    #bienvenida {
         width: 300px;
     }
 
@@ -482,9 +482,8 @@ a {
 
 @media (min-width: 321px) and (max-width: 768px){
 
-    .inicio {
+    #bienvenida {
         width: 300px;
-        padding: 0 20px;
     }
 
     .nav-link i {
